@@ -36,7 +36,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'NaviBlind',
+      title: 'Qozaiym',
       theme: ThemeData(
         brightness: Brightness.dark,
         scaffoldBackgroundColor: AppTheme.background,
