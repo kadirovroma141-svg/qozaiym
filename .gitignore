@@ -45,3 +45,34 @@ app.*.map.json
 /android/app/release
 .env
 volunteer_dashboard/.env
+
+
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Android
+.gradle/
+local.properties
+*.kwks
+*.keystore
+/android/app/src/main/res/values/strings.xml
+
+# iOS
+.generated/
+DerivedData/
+*.moved-aside
+*.spec
+*.ipa
+*.bundle
+
+# Очистка вашего репозитория от node_modules (если они попали случайно)
+node_modules/
+.cache/
+*.pack
+*.idx
