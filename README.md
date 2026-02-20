@@ -20,8 +20,5 @@ Developed for the **Infomatrix** competition, Qozaiym leverages computer vision 
 * `lib/` - Core application logic and Flutter UI components.
 * `assets/` - Machine learning models and sound files for voice feedback.
 
-## 👨‍💻 Developer
-**Rakhmatulla Kadirov** Informatics Teacher at NIS PhM (Chemistry and Biology) Kyzylorda.
-
 ---
 *This project is being actively developed as part of a mission to improve quality of life through Artificial Intelligence.*
